@@ -236,7 +236,7 @@ sup {
 }
 
 a {
-  color: #212529;
+  color: #ec5555;
   text-decoration: none;
 }
 a:hover {
@@ -11207,7 +11207,7 @@ header.masthead .site-heading .h1 {
 }
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
-  color: #d63333;
+  color: #7d1111;
 }
 .post-preview > a > .post-title {
   font-size: 1.875rem;
